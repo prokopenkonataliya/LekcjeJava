@@ -1,3 +1,5 @@
+package lekcje;
+
 /*
 Program zamieniający
 galony na litry

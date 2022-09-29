@@ -1,3 +1,5 @@
+package lekcje;
+
 public class CaleNaMetry {
     public static  void main(String[] args){
         double cala;

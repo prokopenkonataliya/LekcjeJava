@@ -1,3 +1,5 @@
+package lekcje;
+
 /*
 Stosuje twierdzenie Pitagorasa
 do obliczenia przeciwprostokątnej,

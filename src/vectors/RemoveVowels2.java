@@ -1,3 +1,5 @@
+package vectors;
+
 public class RemoveVowels2 {
     public static void main(String[] args){
        String str = "nisenitneca";

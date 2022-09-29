@@ -1,3 +1,5 @@
+package vectors;
+
 import java.util.Scanner;
 
 public class ArcTg2 {

@@ -1,3 +1,5 @@
+package vectors;
+
 public class SumVectors {
     public static void main(String[] args){
 
