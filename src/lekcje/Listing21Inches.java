@@ -1,3 +1,5 @@
+package lekcje;
+
 /*
 Wyznacza liczbę cali sześciennych
 w mili sześciennej

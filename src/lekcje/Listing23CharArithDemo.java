@@ -1,3 +1,5 @@
+package lekcje;
+
 //Zmienne typu char można traktować jak wartości całkowite
 public class Listing23CharArithDemo {
     public static void main(String[] args){

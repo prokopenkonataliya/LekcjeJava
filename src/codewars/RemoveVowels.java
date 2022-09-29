@@ -1,3 +1,5 @@
+package codewars;
+
 public class RemoveVowels {
     public static void main(String[] arg){
         String trall = "disemvowel";

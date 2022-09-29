@@ -1,4 +1,4 @@
-/*
+package lekcje;/*
    Demonstruje użycie zmiennych
 
    Nazwij plik Example2.java

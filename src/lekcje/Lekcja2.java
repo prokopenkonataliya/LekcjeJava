@@ -1,3 +1,5 @@
+package lekcje;
+
 public class Lekcja2 {
     public static void main(String[]args){
         //Znak

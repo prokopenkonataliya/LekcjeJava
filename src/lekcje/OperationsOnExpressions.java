@@ -1,3 +1,5 @@
+package lekcje;
+
 public class OperationsOnExpressions {
     public static void printDisjunction(){
         System.out.println("A B A||B");

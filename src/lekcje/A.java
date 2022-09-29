@@ -1,3 +1,5 @@
+package lekcje;
+
 public class A {
    private int count;
     public void setCount(int aCount){

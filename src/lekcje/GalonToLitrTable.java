@@ -1,3 +1,5 @@
+package lekcje;
+
 //Listing1.8.
 public class GalonToLitrTable {
     public static void main(String[] arg){
