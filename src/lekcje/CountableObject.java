@@ -1,6 +1,6 @@
 package lekcje;
 
-public class A {
+public class CountableObject {
    private int count;
     public void setCount(int aCount){
         if(aCount < 0){
