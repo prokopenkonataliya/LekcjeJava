@@ -37,13 +37,13 @@ public class ModuloOperatorTable {
     private static void printRows(char operator, int size) {
         IntStream.range(0, size)
                 .mapToObj(row -> row + " " + IntStream.range(0, size)
-                        .map(digit -> getValue(operator, row, digit))
+                        .map(digit -> getValue(operator, row, digit, size))
                         .mapToObj(String::valueOf)
                         .collect(Collectors.joining(" ")))
                 .forEach(System.out::println);
     }
 
-    private static int getValue(char operator, int row, int digit) {
+    private static int getValue(char operator, int a, int b, int n) {
         return switch (operator) {
             // TODO Implement module operators below:
             case '+' -> 0;
